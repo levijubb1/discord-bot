@@ -4,7 +4,8 @@
   "description": "",
   "main": "./src/bot.js",
   "scripts": {
-    "start": "nodemon ./src/bot.js"
+    "start": "nodemon ./src/bot.js",
+    "deploy": "node ./src/scripts/deploy-commands.js"
   },
   "keywords": [],
   "author": "",

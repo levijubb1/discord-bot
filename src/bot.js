@@ -18,10 +18,11 @@ client.once('ready', () => {
 client.on("messageCreate", (message) => {
   if (message.content === 'ping') {
     message.reply({
-        content: 'Whats up you sussy baka?'
+        content: 'Sussy baka bot is always watching...'
     })
   }
 });
+
 
 
 client.login(process.env.BOT_TOKEN);

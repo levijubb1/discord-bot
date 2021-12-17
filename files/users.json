@@ -1,0 +1,30 @@
+[
+    {
+        "id": "145286865203757056",
+        "bot": false,
+        "system": false,
+        "flags": 0,
+        "username": "Redwallfred",
+        "discriminator": "0585",
+        "avatar": "5015a40763c842a351b1f4bf28f5f865",
+        "createdTimestamp": 1454709487964,
+        "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "tag": "Redwallfred#0585",
+        "avatarURL": "https://cdn.discordapp.com/avatars/145286865203757056/5015a40763c842a351b1f4bf28f5f865.webp",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/145286865203757056/5015a40763c842a351b1f4bf28f5f865.webp"
+    },
+    {
+        "id": "153400851384369152",
+        "bot": false,
+        "system": false,
+        "flags": 0,
+        "username": "Hezitate",
+        "discriminator": "6771",
+        "avatar": "d4ab912a9b220da86b8af03682e409d0",
+        "createdTimestamp": 1456644013020,
+        "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+        "tag": "Hezitate#6771",
+        "avatarURL": "https://cdn.discordapp.com/avatars/153400851384369152/d4ab912a9b220da86b8af03682e409d0.webp",
+        "displayAvatarURL": "https://cdn.discordapp.com/avatars/153400851384369152/d4ab912a9b220da86b8af03682e409d0.webp"
+    }
+]

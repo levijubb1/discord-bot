@@ -1,11 +1,6 @@
-## 🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖
-## 🎉 WELCOME 🎉 TO 🎉 THE 🎉 SUSSY 🎉 BAKA 🎉 BOT 🎉
-## 🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖=🤖
-
-![Alt Text](https://media.giphy.com/media/l0IyfxPD5cwvOK6By/giphy.gif)
 ### Description
 This following is a discord bot built on [Discord.js](https://discord.js.org/).
-This bot is being built as a general server aid to help manage servers, invites, events and, of course, to sus out any sussy bakas.
+This bot is being built as a general server aid to help manage servers, invites and events.
 
 ### Installation
 1. Clone repo
